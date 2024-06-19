@@ -2,9 +2,9 @@ import os
 from setuptools import setup, find_packages
 
 __package_name__ = "jarm"
-__version__ = ""
-__author_name__ = ""
-__author_email__ = ""
+__version__ = "0.0.1"
+__author_name__ = "author"
+__author_email__ = "author@email.com"
 __description__ = "JARM hashing library and tool"
 
 this_directory = os.path.abspath(os.path.dirname(__file__))
